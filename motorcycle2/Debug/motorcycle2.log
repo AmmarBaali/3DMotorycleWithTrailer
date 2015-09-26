@@ -1,0 +1,64 @@
+﻿  motorcycle.cpp
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(102): warning C4101: 'v' : unreferenced local variable
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(434): error C2065: 'engine' : undeclared identifier
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(434): error C2065: 'engine' : undeclared identifier
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(580): error C2086: 'GLUquadricObj *quadratic' : redefinition
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(14) : see declaration of 'quadratic'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(581): error C2370: 'isWire' : redefinition; different storage class
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(15) : see declaration of 'isWire'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(582): error C2370: 'distance' : redefinition; different storage class
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(16) : see declaration of 'distance'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(583): error C2370: 'angleH' : redefinition; different storage class
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(17) : see declaration of 'angleH'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(584): error C2370: 'angleV' : redefinition; different storage class
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(18) : see declaration of 'angleV'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(586): error C2370: 'R' : redefinition; different storage class
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(20) : see declaration of 'R'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(587): error C2370: 'p' : redefinition; different storage class
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(21) : see declaration of 'p'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(588): error C2370: 'q' : redefinition; different storage class
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(22) : see declaration of 'q'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(594): error C2086: 'unsigned int pipe' : redefinition
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(28) : see declaration of 'pipe'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(594): error C2086: 'unsigned int seat' : redefinition
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(28) : see declaration of 'seat'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(594): error C2086: 'unsigned int cover' : redefinition
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(28) : see declaration of 'cover'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(594): error C2086: 'unsigned int wheel' : redefinition
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(28) : see declaration of 'wheel'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(594): error C2086: 'unsigned int wheelCenter' : redefinition
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(28) : see declaration of 'wheelCenter'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(594): error C2086: 'unsigned int cycles' : redefinition
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(28) : see declaration of 'cycles'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(595): error C2086: 'GLUquadricObj *cylinder' : redefinition
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(29) : see declaration of 'cylinder'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(607): error C2084: function 'void display(void)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(41) : see previous definition of 'display'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(645): error C2084: function 'void drawCoordinates(void)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(31) : see previous definition of 'drawCoordinates'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(653): error C2084: function 'void no_light(void)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(86) : see previous definition of 'no_light'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(658): error C2084: function 'void lighting(void)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(91) : see previous definition of 'lighting'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(685): error C2084: function 'void drawMotorcycle(void)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(32) : see previous definition of 'drawMotorcycle'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(890): error C2084: function 'void drawTrailer(void)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(33) : see previous definition of 'drawTrailer'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(943): error C2084: function 'void drawHemisphere(void)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(34) : see previous definition of 'drawHemisphere'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(962): error C2084: function 'void reshape(int,int)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(396) : see previous definition of 'reshape'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(984): error C2084: function 'void keyInput(unsigned char,int,int)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(418) : see previous definition of 'keyInput'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(996): error C3861: 'lighting': identifier not found
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(997): error C3861: 'no_light': identifier not found
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(1005): error C2084: function 'void specialKeyboard(int,int,int)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(440) : see previous definition of 'specialKeyboard'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(1025): error C2084: function 'void update(void)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(460) : see previous definition of 'update'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(1030): error C2084: function 'void setup(void)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(39) : see previous definition of 'setup'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(1064): error C3861: 'drawHemisphere': identifier not found
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(1101): error C2084: function 'int main(int,char **)' already has a body
+          c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(536) : see previous definition of 'main'
+c:\users\ammar\documents\visual studio 2010\projects\motorcycle 2\motorcycle2\motorcycle.cpp(1114): error C3861: 'setup': identifier not found
